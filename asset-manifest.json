@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/odin-memory-game/static/css/main.1609103d.css",
+    "main.js": "/odin-memory-game/static/js/main.42f8e846.js",
+    "index.html": "/odin-memory-game/index.html",
+    "static/media/8.svg": "/odin-memory-game/static/media/8.b08a3752301d3b64c4844c551555d076.svg",
+    "static/media/6.svg": "/odin-memory-game/static/media/6.2ccf3512471886b40fb810c4970ac3b1.svg",
+    "static/media/12.svg": "/odin-memory-game/static/media/12.263a2570b9dac9439564dbb19c608c23.svg",
+    "static/media/2.svg": "/odin-memory-game/static/media/2.0d7531fde3065f19125cc0a536c44742.svg",
+    "static/media/11.svg": "/odin-memory-game/static/media/11.a77ebb489ca4a69f34af8b285235ba94.svg",
+    "static/media/4.svg": "/odin-memory-game/static/media/4.fda2eb11f32a5b777b772770879a49b3.svg",
+    "static/media/10.svg": "/odin-memory-game/static/media/10.9dd63405215a9def311b8e4b0f132fed.svg",
+    "static/media/7.svg": "/odin-memory-game/static/media/7.ce8fafb724f04d93cc34059c79c01bb0.svg",
+    "static/media/9.svg": "/odin-memory-game/static/media/9.17f99b22afc977661841c46539cdb138.svg",
+    "static/media/5.svg": "/odin-memory-game/static/media/5.cb9dad708f6942920e7621d40f892a95.svg",
+    "static/media/1.svg": "/odin-memory-game/static/media/1.e62e276bf0f53bb982f10831eb1c9918.svg",
+    "static/media/3.svg": "/odin-memory-game/static/media/3.0ca73970110dc1e42ea75f345fce6138.svg",
+    "main.1609103d.css.map": "/odin-memory-game/static/css/main.1609103d.css.map",
+    "main.42f8e846.js.map": "/odin-memory-game/static/js/main.42f8e846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1609103d.css",
+    "static/js/main.42f8e846.js"
+  ]
+}
