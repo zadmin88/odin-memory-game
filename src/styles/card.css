@@ -1,0 +1,29 @@
+.cards {
+  width: 500px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 100px));
+  gap: 5px;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(165, 125, 165);
+  /* padding: 8px; */
+
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 80px;
+  height: 80px;
+  background-color: rgb(165, 125, 165);
+}
+
+.card:active {
+  border: 1px solid rgb(165, 125, 165);
+  background-color: rgb(109, 82, 109);
+}

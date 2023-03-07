@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/card.css'
 
 const Cards = ({
   cards,
@@ -22,13 +23,16 @@ const Cards = ({
       setCards(newCards.sort((a, b) => 0.5 - Math.random()))
     } else {
       if (curr > maxScore) setMaxScore(curr)
+      if (maxScore === 12) {
+        setCards(initialState)
+      }
       setCurr(0)
       setCards(initialState)
     }
   }
 
   return (
-    <div>
+    <div className='cards'>
       {cards.map((card) => {
         return (
           <div

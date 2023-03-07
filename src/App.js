@@ -42,6 +42,7 @@ function App() {
   return (
     <div className='App'>
       <h1>Memory Game</h1>
+      <p>Try to click all icons without repeat any click!</p>
       <Score curr={curr} maxScore={maxScore} />
       <Cards
         cards={cards}
